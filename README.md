@@ -73,12 +73,12 @@ I am proficient in a wide range of languages including Python, Java, C++, C, as 
 
 - ⚡ Fun fact:- **I love to attend Meetups for learning & Conferences for Networking.**
 
- <h1 align="center">Let's Get Connected</h1>
+ <!--<h1 align="center">Let's Get Connected</h1>-->
 
 <div align="center">
 
 <!-- <a  href="https://www.linkedin.com/in/amosmiller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<a href="mailto:amosmiller0312@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<!-- <a href="mailto:amosmiller0312@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
 <!-- <a  href="https://t.me/amos0312"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> -->
 <!-- <a  href="https://www.instagram.com/this_is_pkb/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 <!---
