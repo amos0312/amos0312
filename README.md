@@ -21,7 +21,7 @@ My technical expertise spans across:
 
 - Cloud Platforms: Microsoft Azure, Google Cloud Platform, Salesforce
 
-- Big Data & Automation: Alteryx, Big Data Processing, Intelligent Workflows
+- Automation: Make.com, n8n, zapier, google sheets, OpenAI and etc
 
 - Full Stack: Next.js, React.js, Node.js, SQL, REST APIs
 
