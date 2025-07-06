@@ -2,11 +2,11 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pareshkumarbehura/" target="_blank"> Amos Miller </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/amos0312/amos0312/blob/main/workbench.svg" >
 
-A bit about Myself, I am <b>Amos Miller</b> As of now, I am Working in <b>MagestikMagik</b> as an <b>AI & Automatino engineer</b> and focusing on developing my Automation skills but still I wish to explore many fields. ⚡
+A bit about Myself, I am <b>Amos Miller</b>. As of now, I am Working in <b>MagestikMagik</b> as an <b>AI & Automatino engineer</b> and focusing on developing my Automation skills but still I wish to explore many fields. ⚡
 
 <h3 align="center"> AI Engineer | Automation Specialist </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amos0312&label=Profile%20views&color=0e75b6&style=flat" alt="amos0312" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amos0312&label=Profile%20views&color=0e75b6&style=flat" alt="amos0312" style="margin-bottom:8px;" /> </p>
    <div align="center">
 
 <h1>💻 Technical Skills 🛠</h1>
