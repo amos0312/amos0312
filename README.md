@@ -2,16 +2,18 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pareshkumarbehura/" target="_blank"> Amos Miller </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/amos0312/amos0312/blob/main/workbench.svg" >
 
-A bit about Myself, I am <b>Amos Miller</b>. As of now, I am Working in <b>MagestikMagik</b> as an <b>AI & Automatino engineer</b> and focusing on developing my Automation skills but still I wish to explore many fields. ⚡
+A bit about Myself, I am <b>AI & Automation enthusiast</b>. As of now, I am Working in <b>MagestikMagik</b> as an <b>AI & Automatino engineer</b> and focusing on developing my Automation skills but still I wish to explore many fields. ⚡
 
 <h3 align="center"> AI Engineer | Automation Specialist </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amos0312&label=Profile%20views&color=0e75b6&style=flat" alt="amos0312" style="margin-bottom:8px;" /> </p>
-   <div align="center">
+   <div align="left">
 
 <h1>💻 Technical Skills 🛠</h1>
-  
-As an AI Engineer and Automation Specialist, I bring a strong foundation in web development using HTML, CSS, JavaScript, and Node.js, along with deep experience in data-driven solutions and intelligent automation. I’ve worked on both supervised and unsupervised learning models, and have developed end-to-end machine learning pipelines using real-world datasets from Kaggle, Keras, and self-curated sources.
+
+  <p align="left">
+     
+As an AI & Automation Engineer, I specialize in building intelligent systems using machine learning, natural language processing, and large language models like GPT-4. I have hands-on experience developing AI chatbots, autonomous agents, and integrating OpenAI APIs into real-world workflows. On the automation side, I leverage tools like Make.com, n8n, Zapier, and Google Sheets to design seamless, logic-driven automations. My work bridges AI innovation with practical, no-code/low-code automation to deliver scalable, intelligent solutions.
 
 My technical expertise spans across:
 
@@ -21,10 +23,10 @@ My technical expertise spans across:
 
 - Big Data & Automation: Alteryx, Big Data Processing, Intelligent Workflows
 
-- Full Stack Tools: React.js, Node.js, SQL, REST APIs
+- Full Stack: Next.js, React.js, Node.js, SQL, REST APIs
 
 I am proficient in a wide range of languages including Python, Java, C++, C, as well as web languages like HTML, CSS, and JavaScript.
-
+  </p>
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -52,7 +54,7 @@ I am proficient in a wide range of languages including Python, Java, C++, C, as 
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amos0312" alt="amos0312" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amos0312" alt="amos0312" /></a> </p> -->
 
 
 - 🔭 I’m currently working on **AI & Automation workflow Development**
@@ -84,12 +86,13 @@ I am proficient in a wide range of languages including Python, Java, C++, C, as 
 <a href="https://twitter.com/Pixelite3" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 --->
 </div>
-
+<!--
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=amos0312&show_icons=true&locale=en" alt="amos0312" />
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=amos0312&" alt="amos0312" /></td>
   </tr>
 </table>
+-->
 
 ![](https://github.com/amos0312/amos0312/blob/main/footer.png)
