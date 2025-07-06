@@ -11,8 +11,19 @@ A bit about Myself, I am <b>Amos Miller</b> graduated with <b>Bachelor's degree 
 
 <h1>💻 Technical Skills 🛠</h1>
   
-I have learned web-development and having knowledge of HTML,CSS & Javascript and NodeJs. I have Worked on Supervised and Unsupervised Data Analytics, ML Algorithms. Have explored and built projects using datasets of Kaggle, keras and Self-made data. Tech: Data Science, Machine learning, Microsoft Azure, Salesforce, BigData, Google cloud, ReactJs, NodeJs, Tensor Flow, SQL, Alteryx.
-Known Languages: Python, Java, C++, C, Html, JavaScript, and CSS.
+As an AI Engineer and Automation Specialist, I bring a strong foundation in web development using HTML, CSS, JavaScript, and Node.js, along with deep experience in data-driven solutions and intelligent automation. I’ve worked on both supervised and unsupervised learning models, and have developed end-to-end machine learning pipelines using real-world datasets from Kaggle, Keras, and self-curated sources.
+
+My technical expertise spans across:
+
+- AI & ML Technologies: Data Science, Machine Learning, TensorFlow, Scikit-learn
+
+- Cloud Platforms: Microsoft Azure, Google Cloud Platform, Salesforce
+
+- Big Data & Automation: Alteryx, Big Data Processing, Intelligent Workflows
+
+- Full Stack Tools: React.js, Node.js, SQL, REST APIs
+
+I am proficient in a wide range of languages including Python, Java, C++, C, as well as web languages like HTML, CSS, and JavaScript.
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
